@@ -1,6 +1,6 @@
 <?php
 $config["mysqlHostname"] = "localhost";
 $config["mysqlUsername"] = "root";
-$config["mysqlPassword"] = "1qaz!QAZ";
+$config["mysqlPassword"] = "";
 $config["mysqlDatabase"] = "test_database";
 
